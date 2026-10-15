@@ -1,0 +1,123 @@
+1. Find the largest element in a list
+
+Easy
+
+
+[x] 2. Find the second-largest distinct element
+
+Easy
+
+
+[x] 3. Find the smallest element without using min()
+
+Easy
+
+
+[x] 4. Reverse a list without using reverse()
+
+Easy
+
+
+[x] 5. Calculate the sum of all elements
+
+Easy
+
+
+[x] 6. Count even and odd numbers
+
+Easy
+
+
+[x] 7. Remove duplicates while preserving order
+
+Easy
+
+
+[x] 8. Find duplicate elements in a list
+
+Easy
+
+
+[x] 9. Find the missing number from 1 to n
+
+Medium
+
+
+[x] 10. Move all zeros to the end
+
+Medium
+
+
+[x] 11. Rotate a list by k positions
+
+Medium
+
+
+[x] 12. Find two numbers whose sum equals a target
+
+Medium
+
+
+[x] 13. Merge two sorted lists
+
+Medium
+
+
+[x] 14. Find the intersection of two lists
+
+Medium
+
+
+[x] 15. Find the union of two lists
+
+Easy
+
+
+[x] 16. Check whether a list is sorted
+
+Easy
+
+
+[ ] 17. Find the frequency of each element
+
+Easy
+
+
+[ ] 18. Separate positive, negative and zero values
+
+Easy
+
+
+[ ] 19. Find all pairs with a given sum
+
+Medium
+
+
+[ ] 20. Find the maximum subarray sum
+
+Hard
+
+
+[ ] 21. Find the majority element
+
+Medium
+
+
+[ ] 22. Remove a specific element in-place
+
+Easy
+
+
+[ ] 23. Find the longest consecutive sequence
+
+Hard
+
+
+[ ] 24. Find the product of array elements except self
+
+Medium
+
+
+[ ] 25. Solve the Two Sum problem efficiently
+
+Medium
