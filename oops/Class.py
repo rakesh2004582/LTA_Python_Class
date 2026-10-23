@@ -12,7 +12,7 @@
 
 class Animal:
     state="Up"
-    def __init__(self,name,age):
+    def __init__(self,name,age): # this is the constructor method that is used to initialize the object of the class .
         self.name=name
         self.age=age
 
